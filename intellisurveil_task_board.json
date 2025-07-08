@@ -1,0 +1,46 @@
+{
+  "columns": [
+    {
+      "title": "📌 To Do",
+      "cards": [
+        "Initialize project with folder structure and Git",
+        "Setup Python environment and install dependencies (OpenCV, face-recognition, Flask)",
+        "Test laptop webcam integration (OpenCV)"
+      ]
+    },
+    {
+      "title": "🛠️ In Progress",
+      "cards": [
+        "Face detection using laptop camera (real-time feed)",
+        "Employee face embedding & storage logic"
+      ]
+    },
+    {
+      "title": "✅ Done",
+      "cards": []
+    },
+    {
+      "title": "📦 Modules",
+      "cards": [
+        "face_recognition.py",
+        "attendance_tracker.py",
+        "zone_mapper.py",
+        "heatmap_visualizer.py",
+        "emotion_detector.py",
+        "voice_emergency.py",
+        "admin_dashboard_ui/",
+        "mobile_app/",
+        "data_storage_server.py"
+      ]
+    },
+    {
+      "title": "🧪 Test & Deploy",
+      "cards": [
+        "Unit test: Face recognition & attendance",
+        "Integration test: Dashboard & DB",
+        "Local deployment using laptop server",
+        "End-to-end system check"
+      ]
+    }
+  ]
+}

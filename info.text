@@ -1,0 +1,11 @@
+I want to build a smart surveillance system that monitors and tracks all individuals within my office premises.
+
+As soon as the office starts, the system should activate and begin scanning for faces using the live camera feed.
+
+When an employee enters, it should recognize their face, record their entry time with a timestamp, and log it in the attendance system.
+
+The system should continuously track each employee’s movement within the office (e.g., inside cabin, front desk, break area) and also monitor entry/exit from the office.
+
+If an unknown person is detected (someone not in the employee database), it should trigger an instant alert notification and begin tracking that individual.
+
+At the end of the day, it should maintain a complete attendance log for all employees, including their working hours and movement history.
