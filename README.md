@@ -8,7 +8,7 @@ We are building cutting-edge AI-powered solutions to shape the future of busines
 **The AiR Co (Artificial Intelligence Revolution Company)** is a forward-thinking tech initiative by a passionate team focused on developing AI-driven platforms, applications, and tools that transform everyday tasks into intelligent experiences.
 
 Founded by:
-- 👨‍💻 **Chandrashekhar (Chandu Sharma)**
+- 👨‍💻 **Cyrus**
 - 👨‍💻 **Baljyot**
 
 Funded and mentored by our visionary guide, our mission is to lead the AI revolution with real-world applications.
